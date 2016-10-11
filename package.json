@@ -10,6 +10,6 @@
         "type": "git",
         "url": "git://github.com/ScottHamper/Cookies.git"
     },
-    "main"          : "./dist/cookies.js",
-    "files"         : ["dist/*", "README.md", "UNLICENSE"]
+    "main"          : "./src/cookies.js",
+    "files"         : ["src/*", "README.md", "UNLICENSE"]
 }
